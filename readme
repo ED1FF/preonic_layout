@@ -39,3 +39,8 @@ QMK Layout for Drop Preonic With pooling rate 1000hz
  * |      |      |      |      |      |      |      |      |      |      |      |RGBMD |
  * `-----------------------------------------------------------------------------------'
  */
+
+### TODO:
+
+- [ ] Mouse Movements and clicks
+- [ ] Mac macros to change workspace 
